@@ -43,5 +43,5 @@ jobs:
 
                   publish_dir: ./public
                   user_name: "github-actions[bot]"
-                  user_email: "github-actions[bot]@users.noreply.github.com"
+                  user_email: "3486283808@qq.com"
                   full_commit_message: Deploy from ${{ github.repository }}@${{ github.sha }} 🚀
