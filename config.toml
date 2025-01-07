@@ -1,6 +1,6 @@
 baseurl = "https://example.com/"
 languageCode = "zh-cn"
-theme = "terminal"
+theme = "hugo-theme-terminal"
 pagination.pagerSize = 5
 
 [markup.goldmark.renderer]
