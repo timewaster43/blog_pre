@@ -1,4 +1,4 @@
-baseurl = "https://timewaster43.github.io"
+baseurl = "https://timewaster43.github.io/"
 languageCode = "en-us"
 # theme = "re-terminal"
 pagination.pagerSize = 5
@@ -11,12 +11,12 @@ pagination.pagerSize = 5
   centerTheme = true
   [params.banner]
     dismissible = false
-    text = "Check it out on GitHub"
+    text = "fuck this"
     url = "https://github.com/mirus-ua/hugo-theme-re-terminal"
 
 [languages]
   [languages.en.params]
-    title = "re-Terminal"
+    title = "Ben's Blog"
     subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
