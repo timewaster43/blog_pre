@@ -1,7 +1,10 @@
 .header__logo {
-  --accent: #3c4ed7;
+  --accent: #2b2597;
   display: flex;
   flex: 1;
+}
+.header__inner {
+  
 }
 body{
   display: flex;
